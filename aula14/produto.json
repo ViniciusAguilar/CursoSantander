@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 {
     "name" : "Pair of socks",
     "amountInStock" : 100,
     "unitValue" : 5
+=======
+{
+    "name" : "Pair of socks",
+    "amountInStock" : 100,
+    "unitValue" : 5
+>>>>>>> f43de4f920a76d0c1c7021834e7989383592b387
 }

@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 0 - esta é a primeira linha
 1 - esta é a linha do meio
+=======
+0 - esta é a primeira linha
+1 - esta é a linha do meio
+>>>>>>> f43de4f920a76d0c1c7021834e7989383592b387
 2 - esta é a última linha
